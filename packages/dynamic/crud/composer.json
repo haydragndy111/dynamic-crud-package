@@ -1,0 +1,16 @@
+{
+    "name": "dynamic/crud",
+    "description": "manage the crud operations without coding",
+    "autoload": {
+        "psr-4": {
+            "Dynamic\\Crud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "haydragndy111",
+            "email": "h.gndy@lucidly.ae"
+        }
+    ],
+    "require": {}
+}
